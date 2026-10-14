@@ -6,6 +6,8 @@
 **Reúne estudos, exercícios, experimentos e pequenos projetos em Go**
 </div>
 
+- Material de estudos Go/Br: [Go para Iniciantes: Primeiros Passos em 2026](https://golang.com.br/aprenda/go-para-iniciantes/)
+
 ## Objetivo
 
 Minha jornada de aprendizado em Go (Golang): 
@@ -38,6 +40,19 @@ README.md
 My learning journey with Go, documenting the fundamentals, practical exercises, experiments, and mini-projects I complete along the way.
 
 > Learning Go, one commit at a time. 
+
+## 💗 Progresso
+
+<div align="center">
+
+<!-- 🎀 Para atualizar: troque o número depois de /progress/ pela sua % (tópicos concluídos ÷ 10 × 100) -->
+<img src="https://geps.dev/progress/5?dangerColor=93c5fd&warningColor=38bdf8&successColor=0284c7" width="420"/>
+
+<br/><br/>
+</div>
+
+
+
 
 ## Learning Roadmap
 
@@ -215,3 +230,12 @@ sistema operacional, arquitetura e requisitos de runtime da aplicação.
 ---
 
 *This repository documents my learning process. Each lab is an opportunity to practice, experiment, make mistakes, and improve my understanding of Go.*
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/498cfc54-5590-4cbb-b845-d030ca3554f4" width="200" alt="AWS Logo"/>
+
+Se gostou do repositório deixa uma ⭐ ✨
+
+</div>
+
+
