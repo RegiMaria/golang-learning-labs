@@ -85,7 +85,6 @@ Quando você executAR `go build -o hello .`, o Go compilará
 seu código e criará um arquivo executável chamado `hello.`
 Depois, ao executar `./hello`, você rodará esse programa.
 
-
 ---
 
 ## 3. O que cada linha significa
