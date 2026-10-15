@@ -25,8 +25,6 @@ source ~/.bashrc
 ```Bash
 go version
 ```
-Documentação [Go/BR - GO para iniciantes](https://golang.com.br/aprenda/go-para-iniciantes/)
-
 ---
 
 ## 2. Crie o módulo e o Hello World
@@ -53,7 +51,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("Olá, Go!")
-}
+}  
 ```
 Deve ser criada na mesma pasta onde está o arquivo `go.mod`
 (ou seja, dentro da pasta hello-go)
@@ -95,3 +93,7 @@ Depois, ao executar `./hello`, você rodará esse programa.
 | **`import "fmt"`** | Pacote da stdlib para formatar e imprimir |
 | **`func main()`** | Ponto de entrada do programa |
 | **`fmt.Println(...)`** | Escreve uma linha no stdout |
+
+- Documentação [Go/BR - GO para iniciantes](https://golang.com.br/aprenda/go-para-iniciantes/)
+
+- Documentação [Cheatsheet Go: Sintaxe Básica](https://golang.com.br/cheatsheet/sintaxe-basica/)

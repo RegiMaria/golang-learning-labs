@@ -75,3 +75,15 @@ Em resumo:
 | `float64` | Número decimal | `3.14` |
 | `bool` | Verdadeiro/falso | `true` |
 | `error` | Resultado de operação que pode falhar | `err != nil` |
+
+
+### Variáveis
+
+| **Forma** | **Sintaxe** | **Onde funciona** |
+| :--- | :--- | :--- |
+| Declaração explícita | `var nome string = "Ana"` | Qualquer escopo |
+| Tipo inferido | `var idade = 30` | Qualquer escopo |
+| Declaração curta | `nome := "Ana"` | Apenas dentro de funções |
+| Múltiplas | `var a, b int = 1, 2` | Qualquer escopo |
+| Bloco `var` | `var ( ... )` | Qualquer escopo |
+| Zero value | `var x int` → `0` | Qualquer escopo |
