@@ -58,17 +58,17 @@ My learning journey with Go, documenting the fundamentals, practical exercises, 
 
 ### 1. Go Fundamentals
 
-| Conceito | O que aprender | Para que serve |
-|---|---|---|
-| Go syntax | Estrutura do código, palavras-chave e convenções | Escrever código Go simples e legível |
-| Variables and types | Variáveis, constantes e tipos de dados | Armazenar e manipular informações |
-| Functions | Declaração, parâmetros e retornos | Organizar e reutilizar código |
-| Control flow | `if`, `switch`, `for` | Controlar a execução do programa |
-| Arrays, slices and maps | Coleções de dados | Armazenar e acessar conjuntos de informações |
-| Structs and methods | Estruturas e métodos | Modelar entidades e organizar comportamentos |
-| Interfaces | Contratos de comportamento | Criar componentes flexíveis e desacoplados |
-| Error handling | Tratamento explícito de erros | Identificar e tratar falhas de execução |
-| Packages and modules | Organização e dependências | Estruturar projetos Go |
+| Conceito | O que aprender | Para que serve | Link Go.br |
+|---|---|---|---|
+| Go syntax | Estrutura do código, palavras-chave e convenções | Escrever código Go simples e legível | [Ver sintaxe básica](https://golang.com.br/cheatsheet/sintaxe-basica/) |
+| Variables and types | Variáveis, constantes e tipos de dados | Armazenar e manipular informações | A definir |
+| Functions | Declaração, parâmetros e retornos | Organizar e reutilizar código | A definir |
+| Control flow | `if`, `switch`, `for` | Controlar a execução do programa | A definir |
+| Arrays, slices and maps | Coleções de dados | Armazenar e acessar conjuntos de informações | A definir |
+| Structs and methods | Estruturas e métodos | Modelar entidades e organizar comportamentos | A definir |
+| Interfaces | Contratos de comportamento | Criar componentes flexíveis e desacoplados | A definir |
+| Error handling | Tratamento explícito de erros | Identificar e tratar falhas de execução | A definir |
+| Packages and modules | Organização e dependências | Estruturar projetos Go | A definir |
 
 ### 2. Computer Science Fundamentals
 
