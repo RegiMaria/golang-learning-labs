@@ -58,11 +58,11 @@ My learning journey with Go, documenting the fundamentals, practical exercises, 
 
 ### 1. Go Fundamentals
 
-| Conceito | O que aprender | Para que serve | Link go/br
-|---|---|---|
-| Go syntax | Estrutura do código, palavras-chave e convenções | Escrever código Go simples e legível | [Ver-sintaxe](https://golang.com.br/cheatsheet/sintaxe-basica/) |
-| Variables and types | Variáveis, constantes e tipos de dados | Armazenar e manipular informações | a definir |
-| Functions | Declaração, parâmetros e retornos | Organizar e reutilizar código |  a definir |
+| Conceito | O que aprender | Para que serve | Link Go.br |
+|---|---|---|---|
+| Go syntax | Estrutura do código, palavras-chave e convenções | Escrever código Go simples e legível | [Ver sintaxe básica](https://golang.com.br/cheatsheet/sintaxe-basica/) |
+| Variables and types | Variáveis, constantes e tipos de dados | Armazenar e manipular informações | A definir |
+| Functions | Declaração, parâmetros e retornos | Organizar e reutilizar código | A definir |
 | Control flow | `if`, `switch`, `for` | Controlar a execução do programa | A definir |
 | Arrays, slices and maps | Coleções de dados | Armazenar e acessar conjuntos de informações | A definir |
 | Structs and methods | Estruturas e métodos | Modelar entidades e organizar comportamentos | A definir |
